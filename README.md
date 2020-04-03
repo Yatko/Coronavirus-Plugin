@@ -1,2 +1,194 @@
-# Coronavirus-Plugin
-Coronavirus Plugin (Widget) for WordPress
+# Coronavirus Plugin
+## Coronavirus Plugin (Widget) for WordPress ##
+
+Coronavirus Cases Tracker to display the number of confirmed coronavirus cases, recovered and deaths, worldwide and by country. COVID-19 live updates in WordPress page, posts and widgets.
+
+**Coronavirus Update Widget**: *Coronavirus Plugin*, *Coronavirus Tracker*. Cases by country and state. *COVID-19 live update for WordPress*, multiple sources, reliable [coronavirus API](https://api.quarantine.country). See API demos at  [Coronavirus update USA](https://coronavirus.cases.today/usa/) and [Casos de coronavirus en España](https://coronavirus.cases.today/spain/).
+
+The **Coronavirus Plugin for WordPress** is built on the robust and reliable [coronavirus data API](https://api.quarantine.country). By accessing the API, you are not sharing any information, the service is free and does not collect data about you or your WordPress website. Please read and accept the [privacy policy](https://quarantine.country/coronavirus/api/privacy.html) to understand and use the service.
+
+= Supported countries: =
+
+- USA   
+- Italy 
+- Spain 
+- Germany           
+- France
+- Iran  
+- Uk    
+- Switzerland       
+- Turkey
+- Belgium           
+- Netherlands       
+- Austria           
+- South Korea       
+- Canada
+- Portugal          
+- Brazil
+- Israel
+- Australia         
+- Norway
+- Sweden
+- Ireland           
+- Denmark           
+- Malaysia          
+- Philippines       
+- Poland
+- India 
+- Indonesia         
+- Greece
+- Algeria           
+- Hong Kong         
+- Iraq  
+- China 
+- Finland           
+- Iceland           
+- Russia
+- United Kingdom    
+- USA   
+- Afghanistan       
+- Albania           
+- Andorra           
+- Angola
+- Antigua And Barbuda
+- Argentina         
+- Armenia           
+- Azerbaijan        
+- Bahamas           
+- Bahrain           
+- Bangladesh        
+- Barbados          
+- Belarus           
+- Belize
+- Benin 
+- Bhutan
+- Bolivia           
+- Bosnia And Herzegovina
+- Botswana          
+- Brunei
+- Bulgaria          
+- Burkina Faso      
+- Burma 
+- Burundi           
+- Cabo Verde        
+- Cambodia          
+- Cameroon          
+- Central African Republic
+- Chad  
+- Chile 
+- Colombia          
+- Congo (Brazzaville)
+- Congo (Kinshasa)  
+- Costa Rica        
+- Cote D'ivoire     
+- Croatia           
+- Cuba  
+- Cyprus
+- Czechia           
+- Diamond Princess  
+- Djibouti          
+- Dominica          
+- Dominican Republic
+- Ecuador           
+- Egypt 
+- El Salvador       
+- Equatorial Guinea 
+- Eritrea           
+- Estonia           
+- Eswatini          
+- Ethiopia          
+- Fiji  
+- Gabon 
+- Gambia
+- Georgia           
+- Ghana 
+- Grenada           
+- Guatemala         
+- Guinea
+- Guinea-Bissau     
+- Guyana
+- Haiti 
+- Holy See          
+- Honduras          
+- Hungary           
+- Jamaica           
+- Japan 
+- Jordan
+- Kazakhstan        
+- Kenya 
+- Korea, South      
+- Kosovo
+- Kuwait
+- Kyrgyzstan        
+- Laos  
+- Latvia
+- Lebanon           
+- Liberia           
+- Libya 
+- Liechtenstein     
+- Lithuania         
+- Luxembourg        
+- Ms Zaandam        
+- Madagascar        
+- Maldives          
+- Mali  
+- Malta 
+- Mauritania        
+- Mauritius         
+- Mexico
+- Moldova           
+- Monaco
+- Mongolia          
+- Montenegro        
+- Morocco           
+- Mozambique        
+- Namibia           
+- Nepal 
+- New Zealand       
+- Nicaragua         
+- Niger 
+- Nigeria           
+- North Macedonia   
+- Oman  
+- Pakistan          
+- Panama
+- Papua New Guinea  
+- Paraguay          
+- Peru  
+- Qatar 
+- Romania           
+- Rwanda
+- Saint Kitts And Nevis
+- Saint Lucia       
+- Saint Vincent And The Grenadines
+- San Marino        
+- Saudi Arabia      
+- Senegal           
+- Serbia
+- Seychelles        
+- Sierra Leone      
+- Singapore         
+- Slovakia          
+- Slovenia          
+- Somalia           
+- South Africa      
+- Sri Lanka         
+- Sudan 
+- Suriname          
+- Syria 
+- Taiwan*           
+- Tanzania          
+- Thailand          
+- Timor-leste       
+- Togo  
+- Trinidad And Tobago
+- Tunisia           
+- Uganda
+- Ukraine           
+- United Arab Emirates
+- Uruguay           
+- Uzbekistan        
+- Venezuela         
+- Vietnam           
+- West Bank And Gaza
+- Zambia
