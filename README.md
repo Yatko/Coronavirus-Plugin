@@ -11,7 +11,7 @@ The **Coronavirus Plugin for WordPress** is built on the robust and reliable [co
 
 - USA   
 - Italy 
-- Spain 
+- [Spain](https://quarantine.country/coronavirus/cases/spain/ "Casos de Coronavirus en España") 
 - Germany           
 - France
 - Iran  
@@ -48,10 +48,10 @@ The **Coronavirus Plugin for WordPress** is built on the robust and reliable [co
 - USA   
 - Afghanistan       
 - Albania           
-- Andorra           
+- [Andorra](https://quarantine.country/coronavirus/cases/andorra/ "Casos de Coronavirus en Andorra")
 - Angola
 - Antigua And Barbuda
-- Argentina         
+- [Argentina](https://quarantine.country/coronavirus/cases/argentina/ "Casos de Coronavirus en Argentina")
 - Armenia           
 - Azerbaijan        
 - Bahamas           
@@ -62,7 +62,7 @@ The **Coronavirus Plugin for WordPress** is built on the robust and reliable [co
 - Belize
 - Benin 
 - Bhutan
-- Bolivia           
+- [Bolivia](https://quarantine.country/coronavirus/cases/bolivia/ "Casos de Coronavirus en Bolivia")
 - Bosnia And Herzegovina
 - Botswana          
 - Brunei
@@ -75,11 +75,11 @@ The **Coronavirus Plugin for WordPress** is built on the robust and reliable [co
 - Cameroon          
 - Central African Republic
 - Chad  
-- Chile 
-- Colombia          
+- [Chile](https://quarantine.country/coronavirus/cases/chile/ "Casos de Coronavirus en Chile")
+- [Colombia](https://quarantine.country/coronavirus/cases/colombia/ "Casos de Coronavirus en Colombia")
 - Congo (Brazzaville)
 - Congo (Kinshasa)  
-- Costa Rica        
+- [Costa Rica](https://quarantine.country/coronavirus/cases/costa-rica/ "Casos de Coronavirus en Costa Rica")
 - Cote D'ivoire     
 - Croatia           
 - Cuba  
@@ -88,11 +88,11 @@ The **Coronavirus Plugin for WordPress** is built on the robust and reliable [co
 - Diamond Princess  
 - Djibouti          
 - Dominica          
-- Dominican Republic
-- Ecuador           
+- [Dominican Republic](https://quarantine.country/coronavirus/cases/dominican-republic/ "Casos de República Dominicana")
+- [Ecuador](https://quarantine.country/coronavirus/cases/ecuador/ "Casos de Coronavirus en Ecuador")
 - Egypt 
-- El Salvador       
-- Equatorial Guinea 
+- [El Salvador](https://quarantine.country/coronavirus/cases/el-salvador/ "Casos de Coronavirus en El Salvador")
+- [Equatorial Guinea](https://quarantine.country/coronavirus/cases/equatorial-guinea/ "Casos de Coronavirus en Guinea Ecuatorial")
 - Eritrea           
 - Estonia           
 - Eswatini          
@@ -103,13 +103,13 @@ The **Coronavirus Plugin for WordPress** is built on the robust and reliable [co
 - Georgia           
 - Ghana 
 - Grenada           
-- Guatemala         
+- [Guatemala](https://quarantine.country/coronavirus/cases/guatemala/ "Casos de Coronavirus en Guatemala")
 - Guinea
 - Guinea-Bissau     
 - Guyana
 - Haiti 
 - Holy See          
-- Honduras          
+- [Honduras](https://quarantine.country/coronavirus/cases/honduras/ "Casos de Coronavirus en Honduras")
 - Hungary           
 - Jamaica           
 - Japan 
@@ -135,7 +135,7 @@ The **Coronavirus Plugin for WordPress** is built on the robust and reliable [co
 - Malta 
 - Mauritania        
 - Mauritius         
-- Mexico
+- [Mexico](https://quarantine.country/coronavirus/cases/mexico/ "Casos de Coronavirus en Mexico")
 - Moldova           
 - Monaco
 - Mongolia          
@@ -145,16 +145,16 @@ The **Coronavirus Plugin for WordPress** is built on the robust and reliable [co
 - Namibia           
 - Nepal 
 - New Zealand       
-- Nicaragua         
+- [Nicaragua](https://quarantine.country/coronavirus/cases/nicaragua/ "Casos de Coronavirus en Nicaragua")
 - Niger 
 - Nigeria           
 - North Macedonia   
 - Oman  
 - Pakistan          
-- Panama
+- [Panama](https://quarantine.country/coronavirus/cases/panama/ "Casos de Coronavirus en Panama")
 - Papua New Guinea  
-- Paraguay          
-- Peru  
+- [Paraguay](https://quarantine.country/coronavirus/cases/paraguay/ "Casos de Coronavirus en Paraguay")
+- [Peru](https://quarantine.country/coronavirus/cases/peru/ "Casos de Coronavirus en Peru")
 - Qatar 
 - Romania           
 - Rwanda
@@ -171,7 +171,8 @@ The **Coronavirus Plugin for WordPress** is built on the robust and reliable [co
 - Slovakia          
 - Slovenia          
 - Somalia           
-- South Africa      
+- South Africa
+- [Spain](https://quarantine.country/coronavirus/cases/spain/ "Casos de Coronavirus en España")
 - Sri Lanka         
 - Sudan 
 - Suriname          
@@ -186,9 +187,9 @@ The **Coronavirus Plugin for WordPress** is built on the robust and reliable [co
 - Uganda
 - Ukraine           
 - United Arab Emirates
-- Uruguay           
+- [Uruguay](https://quarantine.country/coronavirus/cases/uruguay/ "Casos de Coronavirus en Uruguay")
 - Uzbekistan        
-- Venezuela         
+- [Venezuela](https://quarantine.country/coronavirus/cases/venezuela/ "Casos de Coronavirus en Venezuela")
 - Vietnam           
 - West Bank And Gaza
 - Zambia
