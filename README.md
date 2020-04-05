@@ -80,7 +80,7 @@ The **Coronavirus Plugin for WordPress** is built on the robust and reliable [co
 - Congo (Brazzaville)
 - Congo (Kinshasa)  
 - [Costa Rica](https://quarantine.country/coronavirus/cases/costa-rica/ "Casos de Coronavirus en Costa Rica")
-- [Cote D'ivoire](https://quarantine.country/coronavirus/cases/ivory-coast/ "Casos de Coronavirus en Cote D'ivoire"     
+- [Cote D'ivoire](https://quarantine.country/coronavirus/cases/ivory-coast/ "Casos de Coronavirus en Cote D'ivoire")    
 - Croatia           
 - [Cuba](https://quarantine.country/coronavirus/cases/cuba/ "Casos de Coronavirus en Cuba")  
 - Cyprus
