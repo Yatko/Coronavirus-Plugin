@@ -40,12 +40,12 @@ The **Coronavirus Plugin for WordPress** is built on the robust and reliable [co
 - Algeria           
 - Hong Kong         
 - Iraq  
-- [China](https://quarantine.country/coronavirus/cases/NNNNNNN/ "Coronavirus Update NNNN") 
+- [China](https://quarantine.country/coronavirus/cases/china/ "Coronavirus Update China") 
 - Finland           
 - Iceland           
 - Russia
 - [United Kingdom](https://quarantine.country/coronavirus/cases/uk/ "Coronavirus Update UK")      
-- [USA](https://quarantine.country/coronavirus/cases/NNNNNNN/ "Coronavirus Update NNNN")   
+- [USA](https://quarantine.country/coronavirus/cases/usa/ "Coronavirus Update United States")   
 - Afghanistan       
 - Albania           
 - [Andorra](https://quarantine.country/coronavirus/cases/andorra/ "Casos de Coronavirus en Andorra")
