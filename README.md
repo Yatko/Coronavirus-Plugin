@@ -9,22 +9,22 @@ The **Coronavirus Plugin for WordPress** is built on the robust and reliable [co
 
 = Supported countries: =
 
-- USA   
-- Italy 
+- [USA](https://quarantine.country/coronavirus/cases/usa/ "Coronavirus Update USA")  
+- [Italy](https://quarantine.country/coronavirus/cases/italy/ "Coronavirus Update Italy")
 - [Spain](https://quarantine.country/coronavirus/cases/spain/ "Casos de Coronavirus en España") 
-- Germany           
-- France
-- Iran  
-- Uk    
-- Switzerland       
-- Turkey
-- Belgium           
-- Netherlands       
-- Austria           
-- South Korea       
-- Canada
-- Portugal          
-- Brazil
+- [Germany](https://quarantine.country/coronavirus/cases/germany/ "Coronavirus Update Germany")
+- [France](https://quarantine.country/coronavirus/cases/france/ "Coronavirus Update France")
+- [Iran](https://quarantine.country/coronavirus/cases/iran/ "Coronavirus Update Iran")  
+- [UK](https://quarantine.country/coronavirus/cases/uk/ "Coronavirus Update UK")    
+- [Switzerland](https://quarantine.country/coronavirus/cases/switzerland/ "Coronavirus Update Switzerland")       
+- [Turkey](https://quarantine.country/coronavirus/cases/turkey/ "Coronavirus Update Turkey")
+- [Belgium](https://quarantine.country/coronavirus/cases/belgium/ "Coronavirus Update Belgium")           
+- [Netherlands](https://quarantine.country/coronavirus/cases/netherlands/ "Coronavirus Update Netherlands")       
+- [Austria](https://quarantine.country/coronavirus/cases/austria/ "Coronavirus Update Austria")           
+- [South Korea](https://quarantine.country/coronavirus/cases/south-korea/ "Coronavirus Update South Korea")       
+- [Canada](https://quarantine.country/coronavirus/cases/canada/ "Coronavirus Update Canada")
+- [Portugal](https://quarantine.country/coronavirus/cases/portugal/ "Coronavirus Update Portugal")          
+- [Brazil](https://quarantine.country/coronavirus/cases/brazil/ "Coronavirus Update Brazil")
 - Israel
 - Australia         
 - Norway
@@ -40,12 +40,12 @@ The **Coronavirus Plugin for WordPress** is built on the robust and reliable [co
 - Algeria           
 - Hong Kong         
 - Iraq  
-- China 
+- [China](https://quarantine.country/coronavirus/cases/NNNNNNN/ "Coronavirus Update NNNN") 
 - Finland           
 - Iceland           
 - Russia
-- United Kingdom    
-- USA   
+- [United Kingdom](https://quarantine.country/coronavirus/cases/uk/ "Coronavirus Update UK")      
+- [USA](https://quarantine.country/coronavirus/cases/NNNNNNN/ "Coronavirus Update NNNN")   
 - Afghanistan       
 - Albania           
 - [Andorra](https://quarantine.country/coronavirus/cases/andorra/ "Casos de Coronavirus en Andorra")
@@ -67,7 +67,7 @@ The **Coronavirus Plugin for WordPress** is built on the robust and reliable [co
 - Botswana          
 - Brunei
 - Bulgaria          
-- Burkina Faso      
+- [Burkina Faso](https://quarantine.country/coronavirus/cases/burkina-faso/ "Coronavirus Update Burkina Faso")        
 - Burma 
 - Burundi           
 - Cabo Verde        
@@ -80,9 +80,9 @@ The **Coronavirus Plugin for WordPress** is built on the robust and reliable [co
 - Congo (Brazzaville)
 - Congo (Kinshasa)  
 - [Costa Rica](https://quarantine.country/coronavirus/cases/costa-rica/ "Casos de Coronavirus en Costa Rica")
-- Cote D'ivoire     
+- [Cote D'ivoire](https://quarantine.country/coronavirus/cases/ivory-coast/ "Casos de Coronavirus en Cote D'ivoire"     
 - Croatia           
-- Cuba  
+- [Cuba](https://quarantine.country/coronavirus/cases/cuba/ "Casos de Coronavirus en Cuba")  
 - Cyprus
 - Czechia           
 - Diamond Princess  
@@ -101,7 +101,7 @@ The **Coronavirus Plugin for WordPress** is built on the robust and reliable [co
 - Gabon 
 - Gambia
 - Georgia           
-- Ghana 
+- [Ghana](https://quarantine.country/coronavirus/cases/ghana/ "Casos de Coronavirus en Ghana") 
 - Grenada           
 - [Guatemala](https://quarantine.country/coronavirus/cases/guatemala/ "Casos de Coronavirus en Guatemala")
 - Guinea
@@ -116,7 +116,7 @@ The **Coronavirus Plugin for WordPress** is built on the robust and reliable [co
 - Jordan
 - Kazakhstan        
 - Kenya 
-- Korea, South      
+- [Korea, South](https://quarantine.country/coronavirus/cases/south-korea/ "Coronavirus Update South Korea")      
 - Kosovo
 - Kuwait
 - Kyrgyzstan        
@@ -132,7 +132,7 @@ The **Coronavirus Plugin for WordPress** is built on the robust and reliable [co
 - Madagascar        
 - Maldives          
 - Mali  
-- Malta 
+- [Malta](https://quarantine.country/coronavirus/cases/malta/ "Coronavirus Update Malta") 
 - Mauritania        
 - Mauritius         
 - [Mexico](https://quarantine.country/coronavirus/cases/mexico/ "Casos de Coronavirus en Mexico")
